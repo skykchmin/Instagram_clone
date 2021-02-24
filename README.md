@@ -4,12 +4,14 @@
 
 ------------
 
-## 개발환경 
+## 개발환경
+ 
 + Backend
     - IDE: VSCODE
     - Server: nginx, AWS ec2
     - Backend: nodejs
     - Datebase: mysql
+
 + Frontend
     - IDE: Android Studio
     - Frontend: Kotlin
@@ -18,10 +20,12 @@
 ------------
 
 ## 실행 설명
+
 1. 서버 실행  
     ```
     $ node index.js
     ```
+
 2. POSTMAN 이용
     ```
     localhost:3000/{사용할 URL}
