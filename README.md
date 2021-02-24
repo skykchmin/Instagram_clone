@@ -6,7 +6,7 @@
 
 ## 개발환경 
 + Backend
-- IDE: VSCODE
+    - IDE: VSCODE
 - Server: nginx, AWS ec2
 - Backend: nodejs
 - Datebase: mysql
